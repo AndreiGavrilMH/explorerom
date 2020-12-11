@@ -1,0 +1,26 @@
+[
+  {
+    "packageType": "Banatenian Dream",
+    "title": "Banatenian Dream",
+    "description": "asdf",
+    "long_description": "asdf",
+    "bullets": "asdf",
+    "difficulty": "Easy",
+    "length": "3 days",
+    "price": "111",
+    "region": "Banat",
+    "keywords": "banat"
+  },
+  {
+    "packageType": "Hot Bucovina",
+    "title": "Hot Bucovina",
+    "description": "qwer",
+    "long_description": "qwer",
+    "bullets": "qwer",
+    "difficulty": "Medium",
+    "length": "2 days",
+    "price": "200",
+    "region": "Bucovina",
+    "keywords": "Bucovina"
+  }
+]
